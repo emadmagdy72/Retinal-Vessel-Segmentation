@@ -52,12 +52,10 @@ The results demonstrate that both models are highly effective in segmenting reti
 ## Video Demo
 A video demonstration showcasing the segmentation results using both U-Net and Sagenet is available. The demo highlights the real-time processing of retinal images and the effectiveness of these models in accurately identifying and segmenting blood vessels.
 
-https://github.com/user-attachments/assets/7d790b91-e71b-4b4a-8220-06545b148f5b
 
 
+https://github.com/user-attachments/assets/cd348e6e-7d0f-42f3-ab1d-c326272b7c9a
 
-
-[Watch the video demo here](#) <!-- Replace with the actual link to the video demo -->
 
 ## Conclusion
 
