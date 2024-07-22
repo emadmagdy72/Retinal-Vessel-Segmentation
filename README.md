@@ -50,12 +50,12 @@ The project uses the **[Digital Retinal Images for Vessel Extraction (DRIVE)](ht
 The results demonstrate that both models are highly effective in segmenting retinal vessels, with Sagenet achieving slightly higher accuracy and F1 score, indicating its superior ability to capture complex vessel structures.
 
 ## Video Demo
-
+A video demonstration showcasing the segmentation results using both U-Net and Sagenet is available. The demo highlights the real-time processing of retinal images and the effectiveness of these models in accurately identifying and segmenting blood vessels.
 
 https://github.com/user-attachments/assets/7d790b91-e71b-4b4a-8220-06545b148f5b
 
 
-A video demonstration showcasing the segmentation results using both U-Net and Sagenet is available. The demo highlights the real-time processing of retinal images and the effectiveness of these models in accurately identifying and segmenting blood vessels.
+
 
 [Watch the video demo here](#) <!-- Replace with the actual link to the video demo -->
 
